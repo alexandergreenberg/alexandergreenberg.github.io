@@ -4,4 +4,4 @@ title: Publications
 permalink: /publications/
 ---
 
-These are my publications.
+Coming soon ...
