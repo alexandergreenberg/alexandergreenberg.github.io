@@ -218,7 +218,9 @@
 .post-content {
     font-size: 15px;
     margin-bottom: $spacing-unit;
-
+    li {
+        list-style: circle;
+    }
     h2 {
         font-size: 32px;
 
@@ -241,9 +243,6 @@
         @include media-query($on-laptop) {
             font-size: 18px;
         }
-    li {
-        list-style: circle;
-    }
     }
 }
 
