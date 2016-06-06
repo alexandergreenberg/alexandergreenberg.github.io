@@ -183,7 +183,6 @@
 
     > li {
         margin-bottom: $spacing-unit;
-        list-style: circle;
     }
 }
 
@@ -242,6 +241,9 @@
         @include media-query($on-laptop) {
             font-size: 18px;
         }
+    li {
+        list-style: circle;
+    }
     }
 }
 
