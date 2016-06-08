@@ -217,6 +217,9 @@
 
 .post-content {
     font-size: 15px;
+    .hidden {
+        display: none;
+    }
     margin-bottom: $spacing-unit;
 
     h2 {
