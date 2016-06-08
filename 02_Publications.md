@@ -6,16 +6,16 @@ permalink: /publications/
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.2/jquery.min.js"></script>
 <script>
 $(document).ready(function(){
-    $("a").click(function(){
-        $("p").toggle();
+    $("button").click(function(){
+        $("div class="hidden"").toggle();
     });
 });
 </script>
 #### "Is the Norm on Belief Evaluative? A Response to McHugh" (with Christopher Cowie), forthcoming in *Pacific Philosophical Quarterly*.
 
-<a>**Abstract**</a>
+<button>**Abstract**</button>
 
-<p>We respond to Conor McHugh's claim that an evaluative account of the normative relation between belief and truth is preferable to a prescriptive account. We claim that his arguments fail to establish this. We then draw a more general sceptical conclusion: we take our arguments to put pressure on any attempt to show that an evaluative account will fare better than a prescriptive account. ([penultimate draft](/pdfs/is-the-norm-on-belief-evaluative.pdf){:target="_blank"})</p>
+<div class="hidden">We respond to Conor McHugh's claim that an evaluative account of the normative relation between belief and truth is preferable to a prescriptive account. We claim that his arguments fail to establish this. We then draw a more general sceptical conclusion: we take our arguments to put pressure on any attempt to show that an evaluative account will fare better than a prescriptive account. ([penultimate draft](/pdfs/is-the-norm-on-belief-evaluative.pdf){:target="_blank"})<div>
 
 #### "Is the Norm on Belief Evaluative? A Response to McHugh" (with Christopher Cowie), forthcoming in *Pacific Philosophical Quarterly*.
 
