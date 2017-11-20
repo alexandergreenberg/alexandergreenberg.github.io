@@ -6,7 +6,7 @@ permalink: /teaching/
 
 * #### General Philosophy Tutorials
 
-This is the syllabus and reading list for my tutorials for the *General Philosophy* Prelim. paper at the University of Oxford.
+This is the syllabus and reading list for my tutorials for the *General Philosophy* Prelim paper at the University of Oxford.
 
   * [General Philosophy Tutorials](/pdfs/oxford-general-philosophy-tutorials.pdf){:target="_blank"}
 
