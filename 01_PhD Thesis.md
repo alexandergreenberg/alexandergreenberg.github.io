@@ -4,7 +4,7 @@ title: PhD Thesis
 permalink: /phd-thesis/
 ---
 
-## *The Truth Norm Account of Justification*
+### *The Truth Norm Account of Justification*
 
 What makes beliefs rational or irrational? This question can be illustrated with some examples of irrational beliefs. Particularly striking examples are beliefs in conspiracy theories. In a [2012 YouGov poll](https://yougov.co.uk/news/2012/07/04/we-ask-conspiracy-theories/) of British adults, 12% of respondents said they believed that the 1969 Apollo moon landings did not happen, 17% said they believed Lee Harvey Oswald did not assassinate John F. Kennedy, and 24% said they believed Princess Diana was assassinated. These seem to be clear examples of beliefs that are irrational. But what makes them irrational? Is it because they are not true? Or is it because they are not supported by evidence?
 
