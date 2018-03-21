@@ -14,7 +14,7 @@ This is the syllabus and reading list for my tutorials for the *General Philosop
 
 This is the syllabus and reading list for my tutorials for the *Ethics* Final Honour School paper at the University of Oxford.
 
-  * [Ethics Tutorials](/pdfs/oxford-ethics-tutorials.pdf){:target="_blank"}
+  * [Ethics Tutorials](/pdfs/ethics-tutorials.pdf){:target="_blank"}
 
 * #### Tips for Writing Tutorial Essays
 
