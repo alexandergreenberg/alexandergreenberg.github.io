@@ -20,7 +20,7 @@ This is the syllabus and reading list for my tutorials for the *Ethics* Final Ho
 
 This is a guide about how to write a philosophy essay. It's written for 1st year Oxford students taking the General Philosophy course, but it may be of use to anyone who is new to writing a philosophy essay.
 
-  * [Philosophy Writing Tips](/pdfs/philosophy-writing-tips.pdf){:target="_blank"}
+  * [Philosophy Writing Tips](/pdfs/writing-tips.pdf){:target="_blank"}
 
 * #### Transcendental Arguments Lectures
 
