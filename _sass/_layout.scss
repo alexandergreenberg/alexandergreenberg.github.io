@@ -273,7 +273,7 @@
   height: 260px;
   width: 200px;
   float: right;
-  padding: 30px 30px 30px 30px;
+  padding: 30px 30px 20px 30px;
 }
 //The following moves the profile-picture to above the text and centres it if there's less space.
 @include media-query($on-palm) {
