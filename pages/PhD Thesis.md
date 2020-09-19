@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: PhD Thesis
 permalink: /phd-thesis/
 ---
