@@ -31,5 +31,5 @@ The seminars will take place **Thursdays at 17:00-18:30 BST** on Zoom. If you'd 
 
 <div class="bottom-picture-frame">
 <img class="bottom-picture" src="https://raw.githubusercontent.com/alexandergreenberg/alexandergreenberg.github.io/master/murder.jpg">
-    <p class="photo-credit"><a href="https://commons.wikimedia.org/wiki/Paul_Cézanne#/media/File:Le_Meurtre,_par_Paul_Cézanne,_Yorck.jpg" style="color: black;">*The Murder*, Paul Cézanne</a></p>
+    <p class="photo-credit"><a href="https://commons.wikimedia.org/wiki/Paul_Cézanne#/media/File:Le_Meurtre,_par_Paul_Cézanne,_Yorck.jpg" style="color: black;"><em>The Murder</em>, Paul Cézanne</a></p>
       </div>
