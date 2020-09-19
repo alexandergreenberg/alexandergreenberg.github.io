@@ -7,7 +7,7 @@ permalink: /seminar/
 ### Autumn Seminars
 
 * 15th October: [Gideon Yaffe](https://law.yale.edu/gideon-yaffe) (Yale), "Intoxication, Recklessness, and Negligence" (pre-read)
-* 29th October: [Katrina Sifferd](https://www.elmhurst.edu/academics/departments/philosophy/faculty/katrina-sifferd/) (Elmhurst), "Legal insanity and moral knowledge: Why is a lack of moral knowledge related to a mental illness exculpatory?" (pre-read)
+* 29th October: [Katrina Sifferd](https://www.elmhurst.edu/academics/departments/philosophy/faculty/katrina-sifferd/) (Elmhurst), "Legal insanity and moral knowledge: Why is a lack of moral knowledge related to a mental illness exculpatory?" (presentation)
 * 26th November: [James Manwaring](https://www.law.cam.ac.uk/people/academic/j-manwaring/78491) (Cambridge), "Insanity's Wrongness Limb" (presentation)
 * 3rd December: [Matt Matravers](https://www.york.ac.uk/law/people/matravers/) (York), "Mental Capacity in Conviction and Sentencing” (presentation)
 * 10th December: [Michael Moore](https://law.illinois.edu/faculty-research/faculty-profiles/michael-s-moore/) (Illinois), "Can We Maintain the Distinction Between Intention and Belief (so Crucial to Both Culpability and Permissibility Discriminations)?" (pre-read)
