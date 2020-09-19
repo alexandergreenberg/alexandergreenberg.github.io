@@ -309,6 +309,16 @@
   padding: 40px 30px 30px 30px;
 }
 
+@include media-query($on-palm) {
+.bottom-picture {
+  height: 166px;
+  width: 200px;
+}
+ .bottom-picture-frame {
+  height: 166px;
+  width: 200px;
+    }
+    
 //The following class changes bullet points to empty circles.
 .questions-list {
   > li {
