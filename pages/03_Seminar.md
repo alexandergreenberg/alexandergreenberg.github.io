@@ -28,3 +28,5 @@ The seminars will take place **Thursdays at 17:00-18:30 BST** on Zoom. If you'd 
 * [Elinor Mason](https://sites.google.com/site/elinormasonphilosophy/home) (UC Santa Barbara)
 * [Andrew Simester](https://www.kcl.ac.uk/people/andrew-simester) (KCL/National University of Singapore)
 * [Aness Webster](https://www.anesswebster.com) (Nottingham)
+
+<img src="https://raw.githubusercontent.com/alexandergreenberg/alexandergreenberg.github.io/master/murder.jpg">
