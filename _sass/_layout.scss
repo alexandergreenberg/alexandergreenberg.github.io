@@ -306,7 +306,7 @@
   display: block;
   margin-left: auto;
   margin-right: auto;
-  padding: 60px 30px 30px 30px;
+  padding: 40px 30px 30px 30px;
 }
 
 //The following class changes bullet points to empty circles.
@@ -316,10 +316,11 @@
   }
 }
 //The following class is for crediting photos
-.photo-credit {
+.photo-credit, .photo-credit:hover {
   text-align: center;
   font-size: 12px;
   padding-top: 10px;
+  color: black;
 }
 .iefix {
     position:relative;
