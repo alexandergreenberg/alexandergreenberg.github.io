@@ -29,4 +29,9 @@ The seminars will take place **Thursdays at 17:00-18:30 BST** on Zoom. If you'd 
 * [Andrew Simester](https://www.kcl.ac.uk/people/andrew-simester) (KCL/National University of Singapore)
 * [Aness Webster](https://www.anesswebster.com) (Nottingham)
 
+<div class="picture-frame">
+    <img id="profile-picture" src="https://raw.githubusercontent.com/alexandergreenberg/alexandergreenberg.github.io/master/murder.jpg">
+    <p class="photo-credit"><em><a href="https://commons.wikimedia.org/wiki/Paul_Cézanne#/media/File:Le_Meurtre,_par_Paul_Cézanne,_Yorck.jpg">The Murder, Paul Cézanne</a></em></p>
+  </div>
+
 <img src="https://raw.githubusercontent.com/alexandergreenberg/alexandergreenberg.github.io/master/murder.jpg">
