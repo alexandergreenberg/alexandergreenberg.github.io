@@ -4,7 +4,7 @@ title: Criminal Law and the Mind Seminar
 permalink: /seminar/
 ---
 
-As part of my Leverhulme Early Career Fellowship project, *Belief in Philosophy and the Criminal Law*, in 2020-21 I will be running a visiting speaker seminar series in the UCL Philosophy Department. It will focus on the various psychological concepts that both have been discussed by philosophers and play a role in the criminal law, such as knowledge, belief, awareness, consciousness, intention, action, attempt, reason, and emotion. It will bring together legal and philosophical perspectives on these psychological concepts and to see how legal theory and philosophy can mutually inform one another.
+As part of my Leverhulme Early Career Fellowship project, *Belief in Philosophy and the Criminal Law*, I am running a visiting speaker seminar series in the UCL Philosophy Department in 2020-21. It will focus on the various psychological concepts that both have been discussed by philosophers and play a role in the criminal law, such as knowledge, belief, awareness, consciousness, intention, action, attempt, reason, and emotion. It will bring together legal and philosophical perspectives on these psychological concepts and to see how legal theory and philosophy can mutually inform one another.
 
 Some of the seminars will be pre-read and some will be presentations. Each seminar will feature comments from a UCL respondent followed by a Q&A.
 
