@@ -6,7 +6,7 @@ permalink: /seminar/
 
 # *Criminal Law and the Mind* Seminar
 
-As part of my Leverhulme Early Career Fellowship project, *Belief in Philosophy and the Criminal Law*, I am running a visiting speaker seminar series in the UCL Philosophy Department in 2020-21. It will focus on the various psychological concepts that both have been discussed by philosophers and play a role in the criminal law, such as knowledge, belief, awareness, consciousness, intention, action, attempt, reason, and emotion. It will bring together legal and philosophical perspectives on these psychological concepts and to see how legal theory and philosophy can mutually inform one another.
+As part of my Leverhulme Early Career Fellowship project, *Belief in Philosophy and the Criminal Law*, I am running a visiting speaker seminar series in the UCL Philosophy Department in 2020-21. It will focus on various psychological concepts that both have been discussed by philosophers and play a role in the criminal law, such as knowledge, belief, awareness, consciousness, intention, action, attempt, reason, and emotion. It will bring together legal and philosophical perspectives on these concepts and see how legal theory and philosophy can mutually inform one another.
 
 Some of the seminars will be pre-read and some will be presentations. Each seminar will feature comments from a UCL respondent followed by a Q&A.
 
@@ -19,7 +19,7 @@ The seminars will take place **Thursdays at 17:00-18:30 UK time** on Zoom. If yo
 * 26th November: [James Manwaring](https://www.law.cam.ac.uk/people/academic/j-manwaring/78491) (Cambridge), "Insanity's Wrongness Limb" (*presentation*)
 * 3rd December: [Matt Matravers](https://www.york.ac.uk/law/people/matravers/) (York), "Mental Capacity in Conviction and Sentencing” (*presentation*)
 * 10th December: [Michael Moore](https://law.illinois.edu/faculty-research/faculty-profiles/michael-s-moore/) (Illinois), "Can We Maintain the Distinction Between Intention and Belief (so Crucial to Both Culpability and Permissibility Discriminations)?" (*pre-read*)
-* 17th December: [Marcia Baron](https://philosophy.indiana.edu/people/baron.shtml) (Indiana), chapter from *Self-Defense, Reason, and the Law* (book manuscript) (*pre-read*)
+* 17th December: [Marcia Baron](https://philosophy.indiana.edu/people/baron.shtml) (Indiana), chapter (tbc) from *Self-Defense, Reason, and the Law* (book manuscript) (*pre-read*)
 
 ### Spring Seminars
 (*Dates and titles tbc*)
