@@ -278,7 +278,7 @@
 //The following moves the profile-picture to above the text and centres it if there's less space.
 @include media-query($on-palm) {
   #profile-picture {
-    float:none;
+    float: none;
     display: block;
     padding-bottom: none;
   }
@@ -291,6 +291,25 @@
     padding: 0px 30px 20px 30px;
   }
 }
+
+.bottom-picture {
+  height: 400px;
+  width: 400px;
+  border-radius: 50%;
+  /* filter: grayscale(1); */
+  float: none;
+  padding-bottom: 5px;
+}
+.bottom-picture-frame {
+  height: 400px;
+  width: 400px;
+    float: none;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  padding: 30px 30px 30px 30px;
+}
+
 //The following class changes bullet points to empty circles.
 .questions-list {
   > li {
