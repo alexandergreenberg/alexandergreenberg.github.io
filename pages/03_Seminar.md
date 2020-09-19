@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: Criminal Law and the Mind Seminar
 permalink: /seminar/
 ---
