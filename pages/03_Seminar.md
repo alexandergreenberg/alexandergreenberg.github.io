@@ -15,25 +15,25 @@ The seminars will take place **Thursdays at 17:00-18:30 UK time** on Zoom. If yo
 
 ### Autumn Seminars
 
-* 15th October: [Gideon Yaffe](https://law.yale.edu/gideon-yaffe) (Yale), "Intoxication, Recklessness, and Negligence" (*pre-read*)
-* 29th October: [Katrina Sifferd](https://www.elmhurst.edu/academics/departments/philosophy/faculty/katrina-sifferd/) (Elmhurst), "Legal insanity and moral knowledge: Why is a lack of moral knowledge related to a mental illness exculpatory?" (*presentation*)
-* 26th November: [James Manwaring](https://www.law.cam.ac.uk/people/academic/j-manwaring/78491) (Cambridge), "Insanity's Wrongness Limb" (*presentation*)
-* 3rd December: [Matt Matravers](https://www.york.ac.uk/law/people/matravers/) (York), "Mental Capacity in Conviction and Sentencing” (*presentation*)
-* 10th December: [Michael Moore](https://law.illinois.edu/faculty-research/faculty-profiles/michael-s-moore/) (Illinois), "Can We Maintain the Distinction Between Intention and Belief (so Crucial to Both Culpability and Permissibility Discriminations)?" (*pre-read*)
-* 17th December: [Marcia Baron](https://philosophy.indiana.edu/people/baron.shtml) (Indiana), chapter (tbc) from *Self-Defense, Reason, and the Law* (book in progress) (*pre-read*)
+* 15th October: [Gideon Yaffe](https://law.yale.edu/gideon-yaffe){:target="_blank"} (Yale), "Intoxication, Recklessness, and Negligence" (*pre-read*)
+* 29th October: [Katrina Sifferd](https://www.elmhurst.edu/academics/departments/philosophy/faculty/katrina-sifferd/){:target="_blank"} (Elmhurst), "Legal insanity and moral knowledge: Why is a lack of moral knowledge related to a mental illness exculpatory?" (*presentation*)
+* 26th November: [James Manwaring](https://www.law.cam.ac.uk/people/academic/j-manwaring/78491){:target="_blank"} (Cambridge), "Insanity's Wrongness Limb" (*presentation*)
+* 3rd December: [Matt Matravers](https://www.york.ac.uk/law/people/matravers/){:target="_blank"} (York), "Mental Capacity in Conviction and Sentencing” (*presentation*)
+* 10th December: [Michael Moore](https://law.illinois.edu/faculty-research/faculty-profiles/michael-s-moore/){:target="_blank"} (Illinois), "Can We Maintain the Distinction Between Intention and Belief (so Crucial to Both Culpability and Permissibility Discriminations)?" (*pre-read*)
+* 17th December: [Marcia Baron](https://philosophy.indiana.edu/people/baron.shtml){:target="_blank"} (Indiana), chapter (tbc) from *Self-Defense, Reason, and the Law* (book in progress) (*pre-read*)
 
 ### Spring Seminars
 (*Dates and titles tbc*)
 
-* [Bebhinn Donnelly-Lazarov](https://www.surrey.ac.uk/people/bebhinn-donnelly-lazarov) (Surrey)
-* [Mark Dsouza](https://www.ucl.ac.uk/laws/people/dr-mark-dsouza) (UCL)
-* [Antony Duff](https://www.stir.ac.uk/people/256371) (Stirling)
-* [Beatrice Krebs](http://www.reading.ac.uk/law/Staff/b-krebs.aspx) (Reading)
-* [Elinor Mason](https://sites.google.com/site/elinormasonphilosophy/home) (UC Santa Barbara)
-* [Andrew Simester](https://www.kcl.ac.uk/people/andrew-simester) (KCL/National University of Singapore)
-* [Aness Webster](https://www.anesswebster.com) (Nottingham)
+* [Bebhinn Donnelly-Lazarov](https://www.surrey.ac.uk/people/bebhinn-donnelly-lazarov){:target="_blank"} (Surrey)
+* [Mark Dsouza](https://www.ucl.ac.uk/laws/people/dr-mark-dsouza){:target="_blank"} (UCL)
+* [Antony Duff](https://www.stir.ac.uk/people/256371){:target="_blank"} (Stirling)
+* [Beatrice Krebs](http://www.reading.ac.uk/law/Staff/b-krebs.aspx){:target="_blank"} (Reading)
+* [Elinor Mason](https://sites.google.com/site/elinormasonphilosophy/home){:target="_blank"} (UC Santa Barbara)
+* [Andrew Simester](https://www.kcl.ac.uk/people/andrew-simester){:target="_blank"} (KCL/National University of Singapore)
+* [Aness Webster](https://www.anesswebster.com){:target="_blank"} (Nottingham)
 
 <div class="bottom-picture-frame">
 <img class="bottom-picture" src="https://raw.githubusercontent.com/alexandergreenberg/alexandergreenberg.github.io/master/murder.jpg">
-    <p class="photo-credit"><a href="https://commons.wikimedia.org/wiki/Paul_Cézanne#/media/File:Le_Meurtre,_par_Paul_Cézanne,_Yorck.jpg" style="color: black;"><em>The Murder</em>, Paul Cézanne</a></p>
+    <p class="photo-credit"><a href="https://commons.wikimedia.org/wiki/Paul_Cézanne#/media/File:Le_Meurtre,_par_Paul_Cézanne,_Yorck.jpg" target="_blank" style="color: black;"><em>The Murder</em>, Paul Cézanne</a></p>
       </div>
