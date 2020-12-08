@@ -19,7 +19,7 @@ The seminars will take place **Thursdays at 17:00-18:30 UK time** on Zoom. If yo
 * 29th October: [Katrina Sifferd](https://www.elmhurst.edu/academics/departments/philosophy/faculty/katrina-sifferd/){:target="_blank"} (Elmhurst), "Legal insanity and moral knowledge: Why is a lack of moral knowledge related to a mental illness exculpatory?" (*presentation*)
 * 26th November: [James Manwaring](https://www.law.cam.ac.uk/people/academic/j-manwaring/78491){:target="_blank"} (Cambridge), "Insanity's Wrongness Limb" (*presentation*)
 * 3rd December: [Michael Moore](https://law.illinois.edu/faculty-research/faculty-profiles/michael-s-moore/){:target="_blank"} (Illinois), "Can We Maintain the Distinction Between Intention and Belief (so Crucial to Both Culpability and Permissibility Discriminations)?" (*pre-read*)
-* (Postponed until Spring term) ~~10th December: [Matt Matravers](https://www.york.ac.uk/law/people/matravers/){:target="_blank"} (York), "Mental Capacity in Conviction and Sentencing” (*presentation*) ~~
+* (Postponed until Spring term) <del>10th December: [Matt Matravers](https://www.york.ac.uk/law/people/matravers/){:target="_blank"} (York), "Mental Capacity in Conviction and Sentencing” (*presentation*)</del>
 * 17th December: [Marcia Baron](https://philosophy.indiana.edu/people/baron.shtml){:target="_blank"} (Indiana), chapter from *Self-Defense, Reason, and the Law*: "The Imminence Requirement" (book in progress) (*pre-read*)
 
 ### Spring Seminars
