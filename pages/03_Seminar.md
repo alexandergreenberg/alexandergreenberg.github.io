@@ -19,6 +19,7 @@ The seminars will take place **Thursdays at 17:00-18:30 UK time** on Zoom. If yo
 * 11th February: [Matt Matravers](https://www.york.ac.uk/law/people/matravers/){:target="_blank"} (York), "Mental Capacity in Conviction and Sentencing” (*presentation*)
 * 25th February: [Aness Webster](https://www.anesswebster.com){:target="_blank"} (Nottingham), "Blameworthiness for Negligence" (*pre-read*)
 * 4th March: [Elinor Mason](https://sites.google.com/site/elinormasonphilosophy/home){:target="_blank"} (UC Santa Barbara), "Consent and Consensuality" (*presentation*)
+* 11th March, **10am UK Time**: [Andrew Simester](https://www.kcl.ac.uk/people/andrew-simester){:target="_blank"} (KCL/National University of Singapore), "Five Functions, and Two Kinds, of Mens Rea" (*pre-read*)
 * 18th March: [Bebhinn Donnelly-Lazarov](https://www.surrey.ac.uk/people/bebhinn-donnelly-lazarov){:target="_blank"} (Surrey), "Law, Knowledge and Consciousness" (*presentation*)
 * 25th March: [Antony Duff](https://www.stir.ac.uk/people/256371){:target="_blank"} (Stirling), "Criminal Responsibility without Blame?" (*pre-read*)
 
