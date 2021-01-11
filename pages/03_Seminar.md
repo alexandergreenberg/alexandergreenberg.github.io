@@ -23,8 +23,6 @@ The seminars will take place **Thursdays at 17:00-18:30 UK time** on Zoom. If yo
 * 18th March: [Bebhinn Donnelly-Lazarov](https://www.surrey.ac.uk/people/bebhinn-donnelly-lazarov){:target="_blank"} (Surrey), "Law, Knowledge and Consciousness" (*presentation*)
 * 25th March: [Antony Duff](https://www.stir.ac.uk/people/256371){:target="_blank"} (Stirling), "Criminal Responsibility without Blame?" (*pre-read*)
 
-* *Date tbc*: [Andrew Simester](https://www.kcl.ac.uk/people/andrew-simester){:target="_blank"} (KCL/National University of Singapore)
-
 
 ### Past Seminars
 
