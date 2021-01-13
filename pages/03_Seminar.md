@@ -11,7 +11,7 @@ As part of my Leverhulme Trust Early Career Fellowship project, *Belief in Philo
 
 Some of the seminars will be pre-read and some will be presentations. Each seminar will feature comments from a UCL respondent followed by a Q&A.
 
-The seminars will take place **Thursdays at 17:00-18:30 UK time** on Zoom. If you'd like to attend, [email me](mailto:{{ site.email }}) with 'Criminal Law and the Mind registration' in the subject line, and I'll add you to the mailing list for the seminars. In advance of each seminar you'll receive a Zoom link and the paper for the pre-read sessions.
+The seminars will take place on Zoom **Thursdays at 17:00-18:30 UK time** (unless otherwise indicated). If you'd like to attend, [email me](mailto:{{ site.email }}) with 'Criminal Law and the Mind registration' in the subject line, and I'll add you to the mailing list for the seminars. In advance of each seminar you'll receive a Zoom link and the paper for the pre-read sessions.
 
 ### Spring Seminars
 
