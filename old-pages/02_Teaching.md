@@ -1,7 +1,7 @@
 ---
-layout: page
+layout:
 title: Teaching
-menu: main
+menu:
 permalink: /teaching/
 ---
 
