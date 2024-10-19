@@ -14,6 +14,7 @@ url: "https://alexandergreenberg.github.io" # the base hostname & protocol for y
 twitter_username: adgreenberg
 github_username: alexandergreenberg
 academia_username:
+philpapers_username: alexander-greenberg
 
 # Build settings
 sass:
